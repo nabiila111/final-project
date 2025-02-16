@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(235, 147, 209);
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+nav{
+    background-color: rgb(240, 233, 239);
+}
+section{
+    padding: 100px 0px;
+}
+footer{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+}
